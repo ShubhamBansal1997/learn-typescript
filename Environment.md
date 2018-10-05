@@ -31,7 +31,7 @@
   ```
 
 
-# File is treated is as script not a module which means it shares global scope
+### File is treated is as script not a module which means it shares global scope
 - Export nothing
    ```
    export {}

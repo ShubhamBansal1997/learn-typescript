@@ -1,4 +1,4 @@
-# Function in TypeScript
+# Functions in TypeScript
 
 ## Basic Function
 ```
